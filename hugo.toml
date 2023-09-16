@@ -1,4 +1,18 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Wiredraw'
-theme='tella'
+theme = 'tella'
+
+[menu]
+    # Home
+    [[menu.main]]
+        identifier = "process"
+        name = "Our Process"
+        url = "/our-process/"
+        weight = 3
+    # Contact Us
+    [[menu.main]]
+        identifier = "about"
+        name = "About Us"
+        url = "/about/"
+        weight = 4
