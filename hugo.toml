@@ -1,18 +1,26 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://wiredrawllc.com/'
 languageCode = 'en-us'
 title = 'Wiredraw'
 theme = 'tella'
 
+[params]
+    [params.logo]
+        main = "img/logo/logo.png"
+        alt = "Wiredraw Logo"
+        size = "h-14"
 [menu]
-    # Home
     [[menu.main]]
         identifier = "process"
         name = "Our Process"
         url = "/our-process/"
-        weight = 3
-    # Contact Us
+        weight = 1
+    [[menu.main]]
+        indentifier = "contact"
+        name = "Contact Us"
+        url = "/contact-us/"
+        weight = 2
     [[menu.main]]
         identifier = "about"
         name = "About Us"
         url = "/about/"
-        weight = 4
+        weight = 3
