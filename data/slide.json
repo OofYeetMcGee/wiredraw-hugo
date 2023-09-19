@@ -1,11 +1,15 @@
 [
   {
-    "title": "Tella, A Hugo theme for Companies.",
+    "title": "We create custom solutions for your specific needs!",
     "image": "img/slide/slide01.jpg"
   },
   {
-    "title": "Sample text here...",
+    "title": "No technical expertise required!",
     "image": "img/slide/slide02.jpg",
     "color": "text-black"
+  },
+  {
+    "title": "Only pay for what you need, nothing more, nothing less",
+    "image": "img/slide/slide03.jpg"
   }
 ]
