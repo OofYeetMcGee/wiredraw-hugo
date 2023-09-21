@@ -4,6 +4,8 @@ date = 2023-09-15T19:13:54-06:00
 draft = true
 +++
 
+![Jared Henderson](/img/jared.jpg)
+
 Jared Henderson is an innovative entrepreneur who has always had an eye for identifying inefficiencies and turning them into opportunities for improvement. His journey in the world of information management began in an unexpected place: a steel detailing company.
 Early in his career, Jared joined a steel detailing company and quickly realized that the existing information management practices were far from ideal. Timecards were managed using cumbersome Excel spreadsheets, crucial Requests for Information (RFIs) were prone to getting lost in a sea of emails, and everyday operations were bogged down by the lack of an effective system. It was clear that there had to be a better way.
 
